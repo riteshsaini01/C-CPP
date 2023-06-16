@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {   
-    printf("welcome to my calculator\n");
+    printf("------welcome to my calculator------\n");
 
     char x;
     float a,b,c;
